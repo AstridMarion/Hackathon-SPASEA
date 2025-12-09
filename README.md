@@ -1,4 +1,4 @@
-# HACKATHON SPASEA - Surveillance Maritime Augmentée par IA Agentique et données satellitaire
+# HACKATHON SPASEA - Surveillance Maritime Augmentée par IA Agentique grâce aux données satellitaires
 
 > [!NOTE]
 > 
