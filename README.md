@@ -1,19 +1,41 @@
 # HACKATHON SPASEA - Surveillance marine spatiale
 
+> [!NOTE]
+> 
+> Les données ne sont pas fournies sur ce dépôt par soucis de confidentialité.
+
 ## Auteurs:
-- François-Xavier COLLOT
-- Louise DELFOSSE
-- Pierre  Antoine 
-- Marin HEROGER
-- Samuel VATTON
+* François-Xavier COLLOT
+* Louise DELFOSSE
+* Pierre-Antoine HIGNARD
+* Marin HEROGUER
+* Samuel VATON
 
 ## Partenaires:
-- Naval Group (organisateur)
-- DGA
-- CNES
-- UNSEELABS
-- DAWEX
-- ENSTA
-- PROMÉTHÉE
+* Naval Group (organisateur)
+* DGA
+* CNES
+* UNSEENLABS
+* DAWEX
+* ENSTA
+* PROMÉTHÉE
+<!-- <div align="center"> -->
+<div>
+<img src="./images/naval_group.jpeg" >
+<img src="./images/dga.png" >
+<img src="./images/cnes.png" >
+<img src="./images/unseenlabs.png" >
+<img src="./images/dawex.png" >
+<img src="./images/ensta.png" >
+<img src="./images/promethée.png" >
+
+</div>
+
+## Objectifs
+
+> Apporter un avantage stratégique et tactique aux forces Marines Françaises à l’aide d’IA et de données satellites.<br>
+
+> Développer un chatbot et d'une interface graphique permettant de décrire au marin sa situation (navires suspects autour de lui avec un score, raisons des suspicions ...) <br>
+
 
 
