@@ -19,8 +19,8 @@
 * DAWEX
 * ENSTA
 * PROMÉTHÉE
-<!-- <div align="center"> -->
-<div>
+<div align="center">
+<!-- <div> -->
 <img src="./images/naval_group.jpeg" style="height: 100px; width: auto;">
 <img src="./images/dga.png" style="height: 100px; width: auto;">
 <img src="./images/cnes.png" style="height: 100px; width: auto;">
