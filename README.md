@@ -21,13 +21,13 @@
 * PROMÉTHÉE
 <!-- <div align="center"> -->
 <div>
-<img src="./images/naval_group.jpeg" >
-<img src="./images/dga.png" >
-<img src="./images/cnes.png" >
-<img src="./images/unseenlabs.png" >
-<img src="./images/dawex.png" >
-<img src="./images/ensta.png" >
-<img src="./images/promethée.png" >
+<img src="./images/naval_group.jpeg" style="height: 150px; width: auto;">
+<img src="./images/dga.png" style="height: 150px; width: auto;">
+<img src="./images/cnes.png" style="height: 150px; width: auto;">
+<img src="./images/unseenlabs.png" style="height: 150px; width: auto;">
+<img src="./images/dawex.png" style="height: 150px; width: auto;">
+<img src="./images/ensta.png" style="height: 150px; width: auto;">
+<img src="./images/promethée.png" style="height: 150px; width: auto;">
 
 </div>
 
