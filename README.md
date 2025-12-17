@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > 
-> Les données ne sont pas fournies sur ce dépôt par soucis de confidentialité.
+> Les données ne sont pas en open source par soucis de confidentialité.
 
 ## Objectifs
 
